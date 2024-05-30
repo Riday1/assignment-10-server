@@ -1,0 +1,838 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "category_name": "Frontend Technology",
+        "image": "https://media.licdn.com/dms/image/D4D12AQEaTK5_cv5Fmg/article-cover_image-shrink_720_1280/0/1677082453584?e=2147483647&v=beta&t=hy4wcIl2vOpp5lr5k74obYVN63IT-U4lydNOIo3hHGo",
+        "title": "HTML 5",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content."
+        },
+        "review": [
+            {
+              "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "category_name": "Frontend Technology",
+        "image": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
+        "title": "CSS",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "category_name": "Frontend Technology",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREH-fdyyskZdhf9ZupiLJlMTMEESn-qdTp6bEm572JYw&s",
+        "title": "Bootstrap",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "category_name": "Frontend Technology",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/0*TZGjEUAGw9h4SNqv.png",
+        "title": "Tailwind",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Tailwind CSS is described as 'A Utility-first CSS Framework that packed with classes. ' This means that Tailwind is a CSS framework that prioritizes the use of utility classes. This framework provides numerous classes that we can use."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "category_id": 2,
+        "category_name": "Backend Technologies",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*QXXviQI-N1jzuOOajsIe7g.png",
+        "title": "Node",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Node. js (Node) is an Open Source, cross-platform runtime environment for executing JavaScript code. Node is used extensively for server-side programming, making it possible for developers to use JavaScript for client-side and server-side code without needing to learn an additional language."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category_id": 3,
+        "category_name": "Database Technologies",
+        "image": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+        "title": "Mongo db",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "MongoDB is a non-relational document database that provides support for JSON-like storage. The MongoDB database has a flexible data model that enables you to store unstructured data, and it provides full indexing support, and replication with rich and intuitive APIs."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "category_id": 2,
+        "category_name": "Backend Technologies",
+        "image": "https://www.technotification.com/wp-content/uploads/2018/12/PHP-Programming-Language.jpg",
+        "title": "PHP",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "PHP (Hypertext Processor) is a general-purpose scripting language and interpreter that is freely available and widely used for web development. The language is used primarily for server-side scripting, although it can also be used for command-line scripting and, to a limited degree, desktop applications."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "category_id": 2,
+        "category_name": "Backend Technologies",
+        "image": "https://azilen-technologies.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/07/spring.jpg",
+        "title": "Spring Boot",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Spring Boot is an open-source, microservice-based Java web framework offered by Spring, particularly useful for software engineers developing web apps and microservices."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "category_id": 3,
+        "category_name": "Database Technologies",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC29ZtA6YKJrlD7EU2DW6rlQ3FaZuzioYStPpYoVlyA90zYubl0I3nwghYgUUSeNA_wYI&usqp=CAU",
+        "title": "MY SQL",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "A relational database stores data in separate tables rather than putting all the data in one big storeroom. The database structure is organized into physical files optimized for speed."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "category_id": 3,
+        "category_name": "Database Technologies",
+        "image": "https://trajectus.com/images/oracle_db_banner.png",
+        "title": "Oracle",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "An Oracle Database (aka Oracle RDBMS) is a collection of data organized by type with relationships being maintained between the different types. The primary purpose of a database is to store and retrieve related information."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "category_id": 4,
+        "category_name": "Programming Language",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRjnbx_mWNZ7yIOtDxi-w63myxyJVVFbKREkpvO5Ex_EAab7ebT75z7yoOyZWAlR54o4&usqp=CAU",
+        "title": "Python",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. It was originally released in 1991. Designed to be easy as well as fun, the name Python is a nod to the British comedy group Monty Python."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "category_id": 4,
+        "category_name": "Programming Language",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBdd4smVdYp3KnVWG7FypaFEJbm7h_GSdiQWw-BDu77Dz3U6zVbXL2VC_0jZ1s9PjAGY&usqp=CAU",
+        "title": "JavaScript",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)"
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "category_id": 4,
+        "category_name": "Programming Language",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/0*sZ1IzKNMKqOSbwHU.jpg",
+        "title": "C++",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems. C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "category_id": 5,
+        "category_name": "Hosting Technologies",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa32ueyF6b4zh2PmSdtOsJ_kmhdY8guPvA3YRe8UcqcQXPyn5v43rYJbd-rZctepzd3CU&usqp=CAU",
+        "title": "Hostinger",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Hostinger is one of the fastest-growing web hosting and AI website builder providers, with over 1,000 employees in 54 countries. Like our dedication to our clients, we take care of our own so that we can grow professionally and take our customers to the next level."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "category_id": 5,
+        "category_name": "Hosting Technologies",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0VYD_QrQGdaT0P-Yy9A2WTF14Gu8daPTKN39q5F82A&s",
+        "title": "DigitalOcean",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "DigitalOcean Inc. is a cloud computing vendor headquartered in New York City with data centers worldwide that offers an infrastructure as a service (IaaS) platform for software developers."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "category_id": 5,
+        "category_name": "Hosting Technologies",
+        "image": "https://images.top10.com/f_auto,q_auto/v1/production/rich-text/uploads/photo/HostwindsLandscape.20190417133208.jpg",
+        "title": "HostWind",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Hostwinds is a web hosting provider that delivers services tailored to meet every client's needs. It offers various web hosting-related products, including Shared Server Hosting, VPS (Virtual Private Servers), Cloud Server Hosting, and Dedicated Servers."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "category_id": 6,
+        "category_name": "Android Technologies",
+        "image": "https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png",
+        "title": "Flutter",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "Flutter is Google's portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "category_id": 6,
+        "category_name": "Android Technologies",
+        "image": "https://www.visual-craft.com/strapi/uploads/React_Native_2_c5ab49be9b.png",
+        "title": "React Native",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "React Native is an open-source framework, meaning it's free for public use. It contains resources like pre-built components, libraries, and reference material. Like the framework of a home, React Native provides the basic structure of an application"
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "category_id": 6,
+        "category_name": "Android Technologies",
+        "image": "https://miro.medium.com/v2/resize:fit:600/1*UYv-MfoiifHZoHMeHPPjqw.png",
+        "title": "Native Script",
+        "ratings": "4",
+        "price": "1200",
+        "details": {
+            "features": [
+                "Awsome Features",
+                "Nice Features",
+                "Bad Features",
+                "requirements"
+            ],
+            "short_brief": "NativeScript is an open-source framework to develop mobile apps on the iOS and Android platforms. It was originally conceived and developed by Progress."
+        },
+        "review": [
+            {
+                "review_id": 1,
+                "profile_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
+                "name": "Janifer",
+                "feedback": "Admitting in this course was one of the best decisions in my life. Their teaching technique is completely unique. If anyone can do hard work then must be successful with the help of this course."
+            },
+            {
+                "review_id": 2,
+                "profile_image": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
+                "name": "Lili",
+                "feedback": "This course makes me a hard worker and dedicated. The teaching environment is very organized. The support team is beneficial."
+            },
+            {
+                "review_id": 3,
+                "profile_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716422400&semt=sph",
+                "name": "Jony ",
+                "feedback": "You guys taught me how to work in a dedicated manner. How to get Caught up in the magic of coding. How to do work on time. A Very good time of life has been spent in this course. Learned a lot from here. Much respect and love to the team members"
+            },
+            {
+                "review_id": 4,
+                "profile_image": "https://st4.depositphotos.com/2760050/41955/i/450/depositphotos_419554064-stock-photo-serious-mature-teacher-on-background.jpg",
+                "name": "siddik ",
+                "feedback": "One word i want to say about you guys which is AWESOME"
+            }
+        ]
+    }
+]

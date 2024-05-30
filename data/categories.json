@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category_name": "Frontend Technologies"
+    },
+    {
+        "id": 2,
+        "category_name": "Backend Technologies"
+    },
+    {
+        "id": 3,
+        "category_name": "Database Technologies"
+    },
+    {
+        "id": 4,
+        "category_name": "Programming Technologies"
+    },
+    {
+        "id": 5,
+        "category_name": "Hosting Technologies"
+    },
+    {
+        "id": 6,
+        "category_name": "Android Technologies"
+    }
+]
