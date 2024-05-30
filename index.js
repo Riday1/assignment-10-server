@@ -13,6 +13,17 @@ app.get('/', (req, res) => {
     console.log('hello world')
 })
 
+app.get('/categories', (req, res) => {
+    res.send(categories)
+})
+
+app.get('/categories/:id', (req, res) => {
+    const id = req.params.id;
+    const categoryData = courses.filter(c => c.category_id == id)
+    res.send(categoryData)
+})
+
+
 app.listen(port, () => {
     console.log('example app listening')
 })
